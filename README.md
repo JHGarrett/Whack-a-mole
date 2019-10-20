@@ -10,3 +10,6 @@ You have 20 seconds to click 20 moles. Can you win?
 Adjust the mole graphic. Currently made with a simple svg.
 
 Maybe adjust the timer to 30 secs? Maybe
+
+## Demo
+https://jhgarrett.github.io/Whack-a-mole/
